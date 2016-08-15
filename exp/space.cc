@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "begin" << endl;
+    // add code here
     return 0;
 }
