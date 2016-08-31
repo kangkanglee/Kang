@@ -1,3 +1,5 @@
+// give a, b
+// output aa, ab, ba, bb
 #include <iostream>
 #include <string>
 
@@ -25,6 +27,5 @@ int main()
 	int n = s.size();
 	string r;
 	get_all_array(s, r, n);
-	system("pause");
 	return 0;
 }
